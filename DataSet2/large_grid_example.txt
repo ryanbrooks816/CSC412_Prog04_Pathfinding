@@ -1,0 +1,1 @@
+./Scripts/runEC.sh prog04v 1024 500 40 23 7 ./Output/Scrap ./Output
